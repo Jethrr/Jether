@@ -1,5 +1,5 @@
 # Hi! I'm Jether Omictin 🤓
-Software Developer | AI & ML Enthusiast | Open Source Contributor from Cebu, PH
+Software Developer | AI & ML Enthusiast | Computer Scientist from Cebu, PH
 
 [**Portfolio**](https://jetheromictin.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jether-omictin/) 
 
