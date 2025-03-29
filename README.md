@@ -6,7 +6,7 @@ Software Developer | AI & ML Enthusiast | Computer Scientist from Cebu, PH
 ---
 
 ## 🤖 Who Am I?
-I am a Computer Science student at Cebu Institute of Technology University, passionate about building web applications, AI-powered tools, and full-stack software solutions. I enjoy working on machine learning, automation, and open-source contributions!
+I am a Computer Science student at Cebu Institute of Technology University, passionate about building web applications, AI-powered tools, and full-stack software solutions. I enjoy working on machine learning, automation, and innovative projects!
 
 ### 📚 Current Stack:
 - **Frontend:** React, Next.js, React Native, TailwindCSS, Framer Motion, Zod
